@@ -1,0 +1,26 @@
+#container-produtos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  #container-produtos > div {
+    flex-basis: calc(33.33% - 10px); /* Defina a largura de cada coluna aqui */
+    margin-bottom: 20px; /* Espaço entre as colunas */
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  
+  #container-produtos img {
+    max-width: 200px;
+    height: 300px;
+  }
+  
+  label {
+    margin-top: 10px; /* Espaço entre a imagem e a label */
+  }
+  
