@@ -1,8 +1,23 @@
-# React + Vite
+# Projeto Vinheiria Agnello
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto de website para uma vinícola desenvolvido em React.
 
-Currently, two official plugins are available:
+## Integrantes da Equipe
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Caíque Walter Silva - RM 550693
+- Enrico Enricco Rossi - RM 551717
+- Gabriel Marquez Trevisan - RM 99227
+- Guilherme Nobre Bernardo - RM 908604
+- Silvia Kavabata - RM 97650
+
+## O que compõem o projeto
+O site possui as seguintes páginas:
+* Nav Bar
+* Home (Titulo e Paragrafo "Lorem ipsum");
+* Sobre (Titulo, imagem e Paragrafo "Lorem ipsum");
+* Tela de produtos (contendo imagem e titulo de cada um deles)
+* Footer com informções de contato;
+
+## Repositório GitHub
+
+ - https://github.com/devCaiqueWS/CP4-WebDevelopmentWithJavaScript
